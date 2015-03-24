@@ -55,6 +55,9 @@ public class Searchcom {
 		// TODO Auto-generated method stub
 		Searchcom c = new Searchcom();
 		// c.search("abcde", "abcde");
+		
+		String a;
+		
 		c.subs("fabcde");
 	}
 
