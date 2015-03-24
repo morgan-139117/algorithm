@@ -1,3 +1,5 @@
 eclipse.preferences.version=1
+encoding//src/graph/AdjGraph.java=UTF-8
+encoding//src/search/LinearHashArrayList.java=UTF-8
 encoding//src/sort/Quick.java=UTF-8
 encoding//src/sort/Sort.java=UTF-8
